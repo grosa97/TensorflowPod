@@ -1,3 +1,7 @@
+# Pod for MobileFaceNet model
+Current version: mfn0.1
+
+
 # TensorflowPod
 
 ## Build Tensorflow for iOS on macOS
