@@ -1,5 +1,6 @@
 # Pod for MobileFaceNet model
-Current version: mfn0.1
+## Current version: mfn0.1
+https://raw.githubusercontent.com/grosa97/TensorflowPod/my_pods/TensorflowPod.podspec
 
 
 # TensorflowPod
