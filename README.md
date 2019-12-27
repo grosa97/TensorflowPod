@@ -1,5 +1,5 @@
 # Pod for MobileFaceNet model branch
-## Current version: 0.1
+## Current version: 0.2
 https://raw.githubusercontent.com/grosa97/TensorflowPod/my_pods/TensorflowPod.podspec
 
 
