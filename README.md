@@ -1,3 +1,11 @@
+## Version: 0.2 --> tf c++ lib for mobilefacenet ops ONLY. Tested & works fine.
+https://raw.githubusercontent.com/grosa97/TensorflowPod/my_pods/TensorflowPod.podspec
+
+## Current version: 0.2.1 --> tf c++ lib for mfn, pnet, onet, rnet. Untested.
+https://raw.githubusercontent.com/grosa97/TensorflowPod/detext_pod/TensorflowPod.podspec
+
+
+
 # TensorflowPod
 
 ## Build Tensorflow for iOS on macOS
