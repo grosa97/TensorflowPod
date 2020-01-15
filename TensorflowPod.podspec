@@ -16,9 +16,9 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TensorflowPod"
-  s.version      = "0.2"
+  s.version      = "0.2.1"
   s.summary      = "Cocoapod based on Tensorflow (unofficial)"
-  s.homepage     = "https://github.com/grosa97/TensorflowPod/tree/my_pods"
+  s.homepage     = "https://github.com/grosa97/TensorflowPod/tree/detext_pod"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -40,7 +40,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "Giac" => "porcowDO@gmail.com" }
+  s.author             = { "Giac" => "giacomo.rosa@citictel-cpc.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source = { :http => "https://github.com/grosa97/TensorflowPod/releases/download/0.2/tensorflow-ARM64.tar.gz" }
+  s.source = { :http => "https://github.com/grosa97/TensorflowPod/releases/download/0.2.1/tensorflow-ARM64-detext.tar.gz" }
   s.preserve_paths = "include/**"
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
